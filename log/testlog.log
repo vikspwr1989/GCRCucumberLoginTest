@@ -1,0 +1,45 @@
+2019-05-15 20:08:25,274 - com.stepdefinitions.Hookable -INFO - Suite Name :[@SmokeTest]
+2019-05-15 20:08:25,278 - com.stepdefinitions.Hookable -INFO - Scenario 1 Verify GCR Admin Login Functionality by passing valid credentials
+2019-05-15 20:08:25,396 - com.controller.Controller -INFO - 1 setup invoked
+2019-05-15 20:08:31,149 - com.operations.Operations -INFO - chrome browser started
+2019-05-15 20:08:32,738 - com.controller.Controller -INFO - 2 enterURL invoked
+2019-05-15 20:08:38,957 - com.operations.Operations -INFO - http://www.gcrit.com/build3/admin URL Launched
+2019-05-15 20:08:39,385 - com.controller.Controller -INFO - 3 enterCredentials invoked
+2019-05-15 20:08:39,570 - com.operations.Operations -INFO - Username and Password entered as admin and admin@123 respectivally
+2019-05-15 20:08:39,949 - com.controller.Controller -INFO - 4 clickLogin invoked
+2019-05-15 20:08:41,333 - com.operations.Operations -INFO - Clicked on Login Button
+2019-05-15 20:08:41,722 - com.controller.Controller -INFO - 5 onHomePage invoked
+2019-05-15 20:08:41,741 - com.operations.Operations -INFO - User moved to Home Page
+2019-05-15 20:08:42,068 - com.controller.Controller -INFO - 6 tearDown invoked
+2019-05-15 20:08:46,137 - com.operations.Operations -INFO - Browser was closed
+2019-05-15 20:08:46,138 - com.stepdefinitions.Hookable -INFO - ======================== End of Scenario 1 ================================
+2019-06-14 10:57:40,810 - com.stepdefinitions.Hookable -INFO - Suite Name :[@SmokeTest]
+2019-06-14 10:57:40,906 - com.stepdefinitions.Hookable -INFO - Scenario 1 Verify GCR Admin Login Functionality by passing valid credentials
+2019-06-14 10:57:41,444 - com.controller.Controller -INFO - 1 setup invoked
+2019-06-14 10:58:04,513 - com.operations.Operations -INFO - chrome browser started
+2019-06-14 10:58:10,175 - com.controller.Controller -INFO - 2 enterURL invoked
+2019-06-14 10:58:18,289 - com.operations.Operations -INFO - http://www.gcrit.com/build3/admin URL Launched
+2019-06-14 10:58:18,710 - com.controller.Controller -INFO - 3 enterCredentials invoked
+2019-06-14 10:58:20,469 - com.operations.Operations -INFO - Username and Password entered as admin and admin@123 respectivally
+2019-06-14 10:58:20,821 - com.controller.Controller -INFO - 4 clickLogin invoked
+2019-06-14 10:58:23,123 - com.operations.Operations -INFO - Clicked on Login Button
+2019-06-14 10:58:23,511 - com.controller.Controller -INFO - 5 onHomePage invoked
+2019-06-14 10:58:23,587 - com.operations.Operations -INFO - User moved to Home Page
+2019-06-14 10:58:23,919 - com.controller.Controller -INFO - 6 tearDown invoked
+2019-06-14 10:58:26,022 - com.operations.Operations -INFO - Browser was closed
+2019-06-14 10:58:26,023 - com.stepdefinitions.Hookable -INFO - ======================== End of Scenario 1 ================================
+2019-07-17 17:57:14,165 - com.stepdefinitions.Hookable -INFO - Suite Name :[@SmokeTest]
+2019-07-17 17:57:14,253 - com.stepdefinitions.Hookable -INFO - Scenario 1 Verify GCR Admin Login Functionality by passing valid credentials
+2019-07-17 17:57:15,949 - com.controller.Controller -INFO - 1 setup invoked
+2019-07-17 17:57:52,030 - com.operations.Operations -INFO - chrome browser started
+2019-07-17 17:57:56,886 - com.controller.Controller -INFO - 2 enterURL invoked
+2019-07-17 17:58:03,715 - com.operations.Operations -INFO - http://www.gcrit.com/build3/admin URL Launched
+2019-07-17 17:58:04,081 - com.controller.Controller -INFO - 3 enterCredentials invoked
+2019-07-17 17:58:07,476 - com.operations.Operations -INFO - Username and Password entered as admin and admin@123 respectivally
+2019-07-17 17:58:07,819 - com.controller.Controller -INFO - 4 clickLogin invoked
+2019-07-17 17:58:10,207 - com.operations.Operations -INFO - Clicked on Login Button
+2019-07-17 17:58:10,835 - com.controller.Controller -INFO - 5 onHomePage invoked
+2019-07-17 17:58:10,843 - com.operations.Operations -INFO - User moved to Home Page
+2019-07-17 17:58:11,176 - com.controller.Controller -INFO - 6 tearDown invoked
+2019-07-17 17:58:13,680 - com.operations.Operations -INFO - Browser was closed
+2019-07-17 17:58:13,681 - com.stepdefinitions.Hookable -INFO - ======================== End of Scenario 1 ================================

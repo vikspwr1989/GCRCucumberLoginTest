@@ -1,0 +1,45 @@
+2019-05-15 20:08:25,274 [main] INFO com.stepdefinitions.Hookable - Suite Name :[@SmokeTest]
+2019-05-15 20:08:25,278 [main] INFO com.stepdefinitions.Hookable - Scenario 1 Verify GCR Admin Login Functionality by passing valid credentials
+2019-05-15 20:08:25,396 [main] INFO com.controller.Controller - 1 setup invoked
+2019-05-15 20:08:31,149 [main] INFO com.operations.Operations - chrome browser started
+2019-05-15 20:08:32,738 [main] INFO com.controller.Controller - 2 enterURL invoked
+2019-05-15 20:08:38,957 [main] INFO com.operations.Operations - http://www.gcrit.com/build3/admin URL Launched
+2019-05-15 20:08:39,385 [main] INFO com.controller.Controller - 3 enterCredentials invoked
+2019-05-15 20:08:39,570 [main] INFO com.operations.Operations - Username and Password entered as admin and admin@123 respectivally
+2019-05-15 20:08:39,949 [main] INFO com.controller.Controller - 4 clickLogin invoked
+2019-05-15 20:08:41,333 [main] INFO com.operations.Operations - Clicked on Login Button
+2019-05-15 20:08:41,722 [main] INFO com.controller.Controller - 5 onHomePage invoked
+2019-05-15 20:08:41,741 [main] INFO com.operations.Operations - User moved to Home Page
+2019-05-15 20:08:42,068 [main] INFO com.controller.Controller - 6 tearDown invoked
+2019-05-15 20:08:46,137 [main] INFO com.operations.Operations - Browser was closed
+2019-05-15 20:08:46,138 [main] INFO com.stepdefinitions.Hookable - ======================== End of Scenario 1 ================================
+2019-06-14 10:57:40,810 [main] INFO com.stepdefinitions.Hookable - Suite Name :[@SmokeTest]
+2019-06-14 10:57:40,906 [main] INFO com.stepdefinitions.Hookable - Scenario 1 Verify GCR Admin Login Functionality by passing valid credentials
+2019-06-14 10:57:41,444 [main] INFO com.controller.Controller - 1 setup invoked
+2019-06-14 10:58:04,513 [main] INFO com.operations.Operations - chrome browser started
+2019-06-14 10:58:10,175 [main] INFO com.controller.Controller - 2 enterURL invoked
+2019-06-14 10:58:18,289 [main] INFO com.operations.Operations - http://www.gcrit.com/build3/admin URL Launched
+2019-06-14 10:58:18,710 [main] INFO com.controller.Controller - 3 enterCredentials invoked
+2019-06-14 10:58:20,469 [main] INFO com.operations.Operations - Username and Password entered as admin and admin@123 respectivally
+2019-06-14 10:58:20,821 [main] INFO com.controller.Controller - 4 clickLogin invoked
+2019-06-14 10:58:23,123 [main] INFO com.operations.Operations - Clicked on Login Button
+2019-06-14 10:58:23,511 [main] INFO com.controller.Controller - 5 onHomePage invoked
+2019-06-14 10:58:23,587 [main] INFO com.operations.Operations - User moved to Home Page
+2019-06-14 10:58:23,919 [main] INFO com.controller.Controller - 6 tearDown invoked
+2019-06-14 10:58:26,022 [main] INFO com.operations.Operations - Browser was closed
+2019-06-14 10:58:26,023 [main] INFO com.stepdefinitions.Hookable - ======================== End of Scenario 1 ================================
+2019-07-17 17:57:14,165 [main] INFO com.stepdefinitions.Hookable - Suite Name :[@SmokeTest]
+2019-07-17 17:57:14,253 [main] INFO com.stepdefinitions.Hookable - Scenario 1 Verify GCR Admin Login Functionality by passing valid credentials
+2019-07-17 17:57:15,949 [main] INFO com.controller.Controller - 1 setup invoked
+2019-07-17 17:57:52,030 [main] INFO com.operations.Operations - chrome browser started
+2019-07-17 17:57:56,886 [main] INFO com.controller.Controller - 2 enterURL invoked
+2019-07-17 17:58:03,715 [main] INFO com.operations.Operations - http://www.gcrit.com/build3/admin URL Launched
+2019-07-17 17:58:04,081 [main] INFO com.controller.Controller - 3 enterCredentials invoked
+2019-07-17 17:58:07,476 [main] INFO com.operations.Operations - Username and Password entered as admin and admin@123 respectivally
+2019-07-17 17:58:07,819 [main] INFO com.controller.Controller - 4 clickLogin invoked
+2019-07-17 17:58:10,207 [main] INFO com.operations.Operations - Clicked on Login Button
+2019-07-17 17:58:10,835 [main] INFO com.controller.Controller - 5 onHomePage invoked
+2019-07-17 17:58:10,843 [main] INFO com.operations.Operations - User moved to Home Page
+2019-07-17 17:58:11,176 [main] INFO com.controller.Controller - 6 tearDown invoked
+2019-07-17 17:58:13,680 [main] INFO com.operations.Operations - Browser was closed
+2019-07-17 17:58:13,681 [main] INFO com.stepdefinitions.Hookable - ======================== End of Scenario 1 ================================
